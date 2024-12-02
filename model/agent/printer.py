@@ -28,43 +28,13 @@ COLORS = {
 
 
 class ColorPrinter:
-    """
-    A callable object that prints text in a specified color.
-
-    Attributes:
-        name (str): The name of the printer.
-        color (str): The colorama.Fore color of the agent's output text.
-
-    Examples:
-        >>> from printer import ColorPrinter
-        >>> color_printer = ColorPrinter("Agent", colorama.Fore.RED)
-        >>> color_printer("Hello, World!")
-        ### Agent ###
-        Hello, World!  # <-- red color
-    """
-
     def __init__(
         self,
         color: str,
     ) -> None:
-        """
-        Initialize the ColorPrinter object.
-
-        Args:
-            color (str): The color of the output text.
-        """
         self.color = COLORS[color]
 
     def __call__(self, *args, **kwargs) -> None:
-        """
-        Prints the content in the agent's color and returns it.
-
-        Args:
-            content (T): The content to be printed.
-
-        Returns:
-            T: The content.
-        """
         print(f"{self.color}", end="")
         print(*args, **kwargs)
         print(f"{colorama.Style.RESET_ALL}", end="", flush=True)
