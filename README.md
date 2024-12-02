@@ -7,6 +7,14 @@ Go to ai-sw-hackathon-2024-challenge-a\model\agent
 Use the below command to run the software
 - python main.py agent.json -m ../../mvp.txt
 
+## Suggested inputs
+- current market prices
+- demand data
+- historical market trends
+- competitor activities
+- market opportunities
+- environmental factors
+
 
 ## Note
 This project was developed based on the research and codebase from the paper ["LLM-based agents for automating the enhancement of user story quality: An early report"](https://arxiv.org/abs/2403.09442). We extend our gratitude to the original authors for their foundational work.
