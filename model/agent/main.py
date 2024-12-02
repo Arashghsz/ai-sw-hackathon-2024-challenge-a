@@ -16,7 +16,7 @@ import readinput
 
 
 TASK = """
-The user story is the following:
+The task is the following:
 {}
 """
 
@@ -106,7 +106,7 @@ def fetch_task(input_path: str,mvp_path: str) -> str:
             sys.exit(1)
     else:
         print(
-            "Enter the User story. "
+            "Enter the task. "
             f'When you\'re done, input "{colorama.Fore.BLUE}END{colorama.Fore.RESET}" '
             "or EOF (End Of File) to finish: "
         )
@@ -143,9 +143,9 @@ def main() -> None:
     # Load the dataset
     dataset = load_dataset(config_file["dataset"])
 
-    # Fetch the initial user story
-    user_story = fetch_task(args.input, args.mvp)
-    conversation_history = f"Initial Context:\n{user_story}\n\n"
+    # Fetch the initial task
+    task = fetch_task(args.input, args.mvp)
+    conversation_history = f"Initial Context:\n{task}\n\n"
 
     for iteration in range(iterations):
         print(f"\n=== Iteration {iteration + 1} ===")
