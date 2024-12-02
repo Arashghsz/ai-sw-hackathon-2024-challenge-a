@@ -1,0 +1,901 @@
+[
+  {
+    "date": "2024-11-03",
+    "rainfall": {
+      "value": 4.07,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 4.5,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 1.53,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 753.96,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 39.32,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.18,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 252,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-04",
+    "rainfall": {
+      "value": 6.97,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": -4.2,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 1.54,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 699.75,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 42.72,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.19,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 240,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-05",
+    "rainfall": {
+      "value": 8.48,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 8.1,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.19,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 518.45,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 18.92,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.13,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 234,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-06",
+    "rainfall": {
+      "value": 6.49,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 16.54,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.44,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 680.82,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 11.37,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.17,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 287,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-07",
+    "rainfall": {
+      "value": 9.27,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 8.97,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.46,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 595.92,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 17.95,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.13,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 245,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-08",
+    "rainfall": {
+      "value": 8.4,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 7.76,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.25,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 560.63,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 35.09,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.04,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 277,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-09",
+    "rainfall": {
+      "value": 0.56,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 10.96,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.14,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 789.93,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 16.2,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 0.91,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 370,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-10",
+    "rainfall": {
+      "value": 2.86,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 0.65,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 1.54,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 754.12,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 11.41,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 0.97,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 238,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-11",
+    "rainfall": {
+      "value": 4.71,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 15.04,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.05,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 324.22,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 17.48,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 0.98,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 170,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-12",
+    "rainfall": {
+      "value": 2.58,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 22.78,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.27,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 778.82,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 34.35,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.16,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 328,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-13",
+    "rainfall": {
+      "value": 6.14,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 8.66,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.25,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 704.32,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 31.95,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.18,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 281,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-14",
+    "rainfall": {
+      "value": 8.3,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 3.43,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.18,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 302.38,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 32.37,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 0.9,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 141,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-15",
+    "rainfall": {
+      "value": 7.61,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 12.51,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.12,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 770.93,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 37,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 0.93,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 271,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-16",
+    "rainfall": {
+      "value": 8.15,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 20.74,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 1.95,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 691.47,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 15.51,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.05,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 287,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-17",
+    "rainfall": {
+      "value": 9.38,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 4.27,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.23,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 637.62,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 47.35,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.1,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 235,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-18",
+    "rainfall": {
+      "value": 7.43,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 16.81,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 1.99,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 735.96,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 12.85,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 0.91,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 282,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-19",
+    "rainfall": {
+      "value": 9.41,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 4.14,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 1.52,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 457.77,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 33.19,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.07,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 200,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-20",
+    "rainfall": {
+      "value": 0.79,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 22.99,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.33,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 303.28,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 26.85,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 0.97,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 157,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-21",
+    "rainfall": {
+      "value": 8.19,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 15.59,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 1.71,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 351.35,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 10.97,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.08,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 184,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-22",
+    "rainfall": {
+      "value": 2.32,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": -2.21,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.32,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 687.92,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 48.41,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 0.93,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 240,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-23",
+    "rainfall": {
+      "value": 0.01,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 5.41,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 1.62,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 641.69,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 22.72,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.17,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 204,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-24",
+    "rainfall": {
+      "value": 3.92,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 11.03,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 1.71,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 599.91,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 47.18,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.12,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 208,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-25",
+    "rainfall": {
+      "value": 3.51,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 11.92,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.24,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 397.6,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 36.27,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.14,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 164,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-26",
+    "rainfall": {
+      "value": 5.67,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": -2.13,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.5,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 769.99,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 10.77,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 291,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-27",
+    "rainfall": {
+      "value": 0.63,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 8.46,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.03,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 371.35,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 44.62,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.02,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 156,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-28",
+    "rainfall": {
+      "value": 4.82,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": -0.06,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 1.66,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 623.3,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 40.94,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 0.95,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 208,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-29",
+    "rainfall": {
+      "value": 4.18,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 4.15,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 1.88,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 781.45,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 35.41,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.1,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 258,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-11-30",
+    "rainfall": {
+      "value": 5.52,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 3.92,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.11,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 315.6,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 23.67,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 0.99,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 142,
+      "unit": "€/ton"
+    }
+  },
+  {
+    "date": "2024-12-01",
+    "rainfall": {
+      "value": 1.92,
+      "unit": "mm/day"
+    },
+    "temperature": {
+      "value": 17.65,
+      "unit": "°C"
+    },
+    "fuel_price": {
+      "value": 2.47,
+      "unit": "€/L"
+    },
+    "fertilizer_price": {
+      "value": 734.12,
+      "unit": "€/ton"
+    },
+    "soil_moisture": {
+      "value": 26.92,
+      "unit": "%"
+    },
+    "exchange_rate": {
+      "value": 1.02,
+      "unit": "€/USD"
+    },
+    "wheat_price": {
+      "value": 274,
+      "unit": "€/ton"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+
+Haaste 		A: Markkinatilanteen yleisnäkymän kehittäminen maataloudelle
+Challenge 	A: Developing a General Market Overview for Agriculture
+
+
+Esimerkkejä rajapinnoista (ja mahdollisista tietolähteistä):
+-	https://kaytannonmaamies.fi/marketinfo
+-	https://commoditic.com/agricultural-commodities-prices-api/  (maksullinen)
+-	https://www.fao.org/faostat/en/#data
+-	https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/ 
+-	https://www.farmit.net/marketinfo/1385 
+
+
+Examples of APIs (and possible datasources):
+-	https://kaytannonmaamies.fi/marketinfo
+-	https://commoditic.com/agricultural-commodities-prices-api/  (pay wall)
+-	https://www.fao.org/faostat/en/#data
+-	https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/ 
+-	https://www.farmit.net/marketinfo/1385 
+
