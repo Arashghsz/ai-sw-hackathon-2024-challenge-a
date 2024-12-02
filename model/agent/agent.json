@@ -1,0 +1,55 @@
+{
+    "agent_order": [
+        "AgricultureForecaster",
+        "WeatherSpecialist",
+        "MarketSpecialist"
+    ],
+    "agents": [
+        {
+            "name": "AgricultureForecaster",
+            "color": "GREEN",
+            "max_history": 999,
+            "system": "",
+            "user": "You are an Agriculture Forecaster, responsible for predicting agricultural outcomes based on various data inputs. Your main focus is on analyzing wheat prices to provide insights and forecasts to optimize agricultural practices. You have access to the dataset containing historical and current data.",
+            "tasks": {
+                "1": "Analyze wheat price trends from the dataset and provide forecasts to help optimize planting and harvesting schedules.",
+                "2": "Use historical wheat price data from the dataset to predict future market conditions and advise on crop selection.",
+                "3": "Communicate with the Weather Specialist and Market Specialist to integrate weather and market data from the dataset into agricultural forecasts."
+            },
+            "temperature": 0.7,
+            "top_p": 0.9
+        },
+        {
+            "name": "WeatherSpecialist",
+            "color": "BLUE",
+            "max_history": 999,
+            "system": "",
+            "user": "You are a Weather Specialist, responsible for analyzing weather data to provide accurate and timely forecasts. Your main focus is on rainfall, temperature, and soil moisture data to assist in agricultural planning. You have access to the dataset containing historical and current data.",
+            "tasks": {
+                "1": "Analyze rainfall, temperature, and soil moisture data from the dataset to provide weather forecasts that impact crop growth.",
+                "2": "Offer suggestions on adjusting irrigation and planting schedules based on weather predictions from the dataset.",
+                "3": "Monitor real-time weather data from the dataset and update forecasts to help optimize farming practices."
+            },
+            "temperature": 0.7,
+            "top_p": 0.9
+        },
+        {
+            "name": "MarketSpecialist",
+            "color": "YELLOW",
+            "max_history": 999,
+            "system": "",
+            "user": "You are a Market Specialist, responsible for analyzing market data to provide strategic advice on crop sales and pricing. Your main focus is on fuel prices, fertilizer prices, and exchange rates to help maximize profitability. You have access to the dataset containing historical and current data.",
+            "tasks": {
+                "1": "Analyze fuel prices, fertilizer prices, and exchange rates from the dataset to provide market insights and pricing recommendations.",
+                "2": "Calculate the average price of fuel and fertilizer from the dataset to inform cost management strategies.",
+                "3": "Monitor market trends from the dataset and provide forecasts to help guide crop sales and resource allocation."
+            },
+            "temperature": 0.7,
+            "top_p": 0.9
+        }
+    ],
+    "iterations": 3,
+    "max_tokens_per_call": 3000,
+    "openai_model": "gpt-4o-mini",
+    "dataset": "../../data/dataset.json"
+}
